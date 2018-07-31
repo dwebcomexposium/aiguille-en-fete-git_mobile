@@ -1,0 +1,19 @@
+.logo.logo-en {
+    display: inline-block;
+    width: 138px;
+    height: 127px;
+    vertical-align: middle;
+    text-decoration: none;
+    background-image: url(images/logo-en.png);
+    background-size: 100% 100%;
+    font-size: 0;
+    line-height: 0;
+    text-indent: -4004px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), not all, only screen and (min-resolution: 192dpi){
+.logo.logo-en {
+    background-image: url(images/logo-en@2x.png);
+}
+}
+
