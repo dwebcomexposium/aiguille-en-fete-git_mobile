@@ -305,10 +305,6 @@ dl { padding: 0; margin: 0; list-style-type: none; }
 
 .logo { display: inline-block; width: 138px; height: 107px; vertical-align: middle; text-decoration: none; background-image: url(n-images/logo.svg); background-size: 100% 100%; font-size: 0; line-height: 0; text-indent: -4004px; }
 
-@media only screen and ( -webkit-min-device-pixel-ratio: 2 ), only screen and ( min-device-pixel-ratio: 2 ), only screen and ( min-resolution: 192dpi ) {
-	.logo { background-image: url(n-images/logo@2x.png); }
-}
-
 /* ------------------------------------------------------------ *\
 	Cookies
 \* ------------------------------------------------------------ */
