@@ -305,6 +305,10 @@ dl { padding: 0; margin: 0; list-style-type: none; }
 
 .logo { display: inline-block; width: 138px; height: 107px; vertical-align: middle; text-decoration: none; background-image: url(n-images/logo.svg); background-size: 100% 100%; font-size: 0; line-height: 0; text-indent: -4004px; }
 
+/*@media only screen and ( -webkit-min-device-pixel-ratio: 2 ), only screen and ( min-device-pixel-ratio: 2 ), only screen and ( min-resolution: 192dpi ) {
+	.logo { background-image: url(n-images/logo@2x.png); }
+}*/
+
 /* ------------------------------------------------------------ *\
 	Cookies
 \* ------------------------------------------------------------ */
@@ -343,7 +347,7 @@ dl { padding: 0; margin: 0; list-style-type: none; }
 	Link Big
 \* ------------------------------------------------------------ */
 
-.link-big { display: block; height: 30px; padding: 3px 15px 0; font-family: 'Playfair Display', sans-serif !important; font-size: 18px; line-height: 1; font-weight: 900; color: #2d3a69; text-decoration: none; text-align: center; background: #d4e6f6; }
+.link-big { display: block; height: 60px; padding: 7px 15px 0; font-family: 'Playfair Display', sans-serif !important; font-size: 23px; line-height: 2; font-weight: 900; color: #2d3a69; text-decoration: none; text-align: center; background: #ffc0bc; }
 
 .link-big span { display: inline-block; margin: -12px 8px 0 0; vertical-align: middle; -webkit-transform: translateY(5px); -ms-transform: translateY(5px); transform: translateY(5px); }
 
@@ -356,7 +360,7 @@ dl { padding: 0; margin: 0; list-style-type: none; }
 
 [class^="ico"] { display: inline-block; vertical-align: middle; background-size: 100% 100%; font-size: 0; line-height: 0; text-indent: -4004px; }
 
-.ico-paper { width: 30px; height: 40px; background-image: url(n-images/icons/ico-facebook.svg); }
+.ico-paper { width: 46px; height: 50px; background-image: url(n-images/icons/ico-money.svg); }
 .ico-arrow-right-black { width: 16px; height: 9px; background-image: url(n-images/icons/ico-arrow-right-black.png); }
 .icon-shopping_basket { width: 19px; height: 18px; background-image: url(n-images/icons/ico-cart.png); }
 .ico-facebook-big { width: 14px; height: 27px; background-image: url(n-images/icons/ico-facebook-big.png); }
@@ -1027,3 +1031,7 @@ body.aefpro:not(.espacepro) .quicklinks .ql-item:nth-child(4) a:after { width: 3
 .espacepro .article-wrapper h4 span { background: #e1f085; color: #2d3a69;}
 .espacepro .article-wrapper ul ul li:after, .espacepro .article-wrapper ul li:after { background: #e1f085; }
 .espacepro .nav { background: #e4edd2}
+
+
+
+
