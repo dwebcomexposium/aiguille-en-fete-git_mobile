@@ -1,4 +1,4 @@
-;
+/*;
 
 var lienListeExposant = $(".linkid237523, .linkid240723");
 var texteListeExposant = $(".linkid237523 span, .linkid240723 span");
@@ -51,4 +51,4 @@ var texteListeExposant = $(".linkid237523 span, .linkid240723 span");
           currentlyAnimating = false;
     }, 1700);
   }
- });
+ });*/
