@@ -23,3 +23,6 @@
 .logo {
     background-image: url(n-images/AEF23_logo.png);
 }
+.global-wrapper {
+    border: 10px solid #6464bF;
+}
