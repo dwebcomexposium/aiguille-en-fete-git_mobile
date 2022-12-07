@@ -26,3 +26,15 @@
 .global-wrapper {
     border: 10px solid #6464bF;
 }
+body:not(.espacepro) .quicklinks .btn-primary:before {
+    background-image: url(n-images/AEF-fond.png);
+}
+.site-footer {
+    background: #6464bF;
+}
+.site-footer .footer__nav a {
+    color: white;
+}
+.site-footer .footer__nav-alt a {
+    color: #fff;
+}
