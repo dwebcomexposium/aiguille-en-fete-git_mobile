@@ -38,3 +38,11 @@ body:not(.espacepro) .quicklinks .btn-primary:before {
 .site-footer .footer__nav-alt a {
     color: #fff;
 }
+.socials-primary>img {
+    position: absolute;
+    width: 107vw;
+    max-width: 200vw;
+    top: 0;
+    left: 50%;
+    margin-left: -54vw;
+}
